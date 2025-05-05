@@ -5,8 +5,5 @@
     ],
     "routes": [
       { "src": "/(.*)", "dest": "/index.js" }
-    ],
-    "env": {
-      "FIREBASE_SERVICE_ACCOUNT": "@firebase-service-account"
-    }
+    ]
   }
